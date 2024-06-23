@@ -27,6 +27,8 @@
 ![ElasticStack](https://img.shields.io/badge/ElasticStack-005571.svg?&style=for-the-badge&logo=ElasticStack&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571.svg?&style=for-the-badge&logo=Logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571.svg?&style=for-the-badge&logo=Kibana&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438.svg?&style=for-the-badge&logo=Redis&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 <br>
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
